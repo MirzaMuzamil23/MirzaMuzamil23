@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Muzammil Baig</h1>
 <h3 align="center">Passionate Software Engineer🚀 | MERN Stack Enthusiast 💻</h3>
 
-<img align="right" width="500" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="mirzamuzamil23" /> 
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="mirzamuzamil23" /> 
 
 - 🌱 I’m currently learning **JavaScript**
 
