@@ -28,7 +28,6 @@
 
 ### 📫 Let's Connect:
 - LinkedIn: [www.linkedin.com/in/mirza-muzamil]
-- 
 ---
 
 **"From code to production — automating, monitoring, and scaling systems one pipeline at a time."**
