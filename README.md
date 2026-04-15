@@ -24,7 +24,7 @@
 ### 🔭 My Goals:
 - Build real-world DevOps projects (CI/CD + Monitoring + IaC)
 - Contribute to open-source DevOps tools and repositories
-- Secure a **DevOps / Cloud / SRE** internship or junior role
+- Secure a **DevOps / Cloud / SRE** 
 
 ### 📫 Let's Connect:
 - LinkedIn: [www.linkedin.com/in/mirza-muzamil]
