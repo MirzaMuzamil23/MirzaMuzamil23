@@ -1,4 +1,4 @@
-# Hi there, I'm Mirza Muzammil Baig👋
+# Hi there, I'm Mirza Muzammil Baig
 
 🎓 **Final-Year Computer Science Student** at **Federal Urdu University of Arts, Science & Technology (FUUAST)**
 
